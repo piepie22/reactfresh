@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Jura', sans-serif, bold;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+
+  h1, h2 {
+    color: #333;
+  }
+  
+  button {
+    font-family: 'Jura', sans-serif;
+    font-weight: 600;
+    background-color: #A7C7E7;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 15px 25px;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-size: 16px;
+    border-radius: 50px;
+    display: inline-block; 
+  }
+
+  .appjs-button {
+    font-family: 'Jura', sans-serif, bold;
+    background-color: #A7C7E7;
+    color: rgb(0, 0, 0);
+    padding: 15px 25px;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 50px;
+    display: block;
+    width: 200px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.start-button {
+    background-color: #00A36C
+}
+.stop-button {
+    background-color: #A42A04
+}
+.reset-button {
+    background-color: #ADD8E6
+}
+  
